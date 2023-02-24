@@ -1,0 +1,7 @@
+E:\DOT NET\CONSOLE\PROJECT\AdditionFromUser\bin\Debug\AdditionFromUser.exe.config
+E:\DOT NET\CONSOLE\PROJECT\AdditionFromUser\bin\Debug\AdditionFromUser.exe
+E:\DOT NET\CONSOLE\PROJECT\AdditionFromUser\bin\Debug\AdditionFromUser.pdb
+E:\DOT NET\CONSOLE\PROJECT\AdditionFromUser\obj\Debug\AdditionFromUser.csprojAssemblyReference.cache
+E:\DOT NET\CONSOLE\PROJECT\AdditionFromUser\obj\Debug\AdditionFromUser.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\AdditionFromUser\obj\Debug\AdditionFromUser.exe
+E:\DOT NET\CONSOLE\PROJECT\AdditionFromUser\obj\Debug\AdditionFromUser.pdb

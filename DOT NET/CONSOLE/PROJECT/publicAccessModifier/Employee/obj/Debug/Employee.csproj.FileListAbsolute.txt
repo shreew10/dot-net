@@ -1,0 +1,7 @@
+E:\DOT NET\CONSOLE\PROJECT\publicAccessModifier\Employee\bin\Debug\Employee.exe.config
+E:\DOT NET\CONSOLE\PROJECT\publicAccessModifier\Employee\bin\Debug\Employee.exe
+E:\DOT NET\CONSOLE\PROJECT\publicAccessModifier\Employee\bin\Debug\Employee.pdb
+E:\DOT NET\CONSOLE\PROJECT\publicAccessModifier\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+E:\DOT NET\CONSOLE\PROJECT\publicAccessModifier\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\publicAccessModifier\Employee\obj\Debug\Employee.exe
+E:\DOT NET\CONSOLE\PROJECT\publicAccessModifier\Employee\obj\Debug\Employee.pdb

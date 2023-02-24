@@ -1,0 +1,7 @@
+E:\Rutwi\ConsoleApp\GenericExample\GenericFunctionExample\GenericFunctionExample\bin\Debug\GenericFunctionExample.exe.config
+E:\Rutwi\ConsoleApp\GenericExample\GenericFunctionExample\GenericFunctionExample\bin\Debug\GenericFunctionExample.exe
+E:\Rutwi\ConsoleApp\GenericExample\GenericFunctionExample\GenericFunctionExample\bin\Debug\GenericFunctionExample.pdb
+E:\Rutwi\ConsoleApp\GenericExample\GenericFunctionExample\GenericFunctionExample\obj\Debug\GenericFunctionExample.csproj.AssemblyReference.cache
+E:\Rutwi\ConsoleApp\GenericExample\GenericFunctionExample\GenericFunctionExample\obj\Debug\GenericFunctionExample.csproj.CoreCompileInputs.cache
+E:\Rutwi\ConsoleApp\GenericExample\GenericFunctionExample\GenericFunctionExample\obj\Debug\GenericFunctionExample.exe
+E:\Rutwi\ConsoleApp\GenericExample\GenericFunctionExample\GenericFunctionExample\obj\Debug\GenericFunctionExample.pdb

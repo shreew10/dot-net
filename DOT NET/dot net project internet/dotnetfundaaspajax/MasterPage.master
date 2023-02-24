@@ -1,0 +1,63 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+<%@ Register Src="include/Menu.ascx" TagName="Menu" TagPrefix="uc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Ajax Tutorials</title>
+    <style type="text/css">
+        body
+        {
+            margin-top:0px;
+            margin-left:0px;
+            font-family:arial;
+            font-size:11pt;
+        }
+        th
+        {
+            background-color:silver;
+        }
+        table
+        {
+            border-collapse:collapse;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager runat="Server" ID="ScriptManager1" EnablePartialRendering="true" />
+        <div>
+            <table width="100%">
+                <tr>
+                    <th>
+                        DotNetFunda.com ASP.NET AJAX Sample Project
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                        <uc1:Menu ID="Menu1" runat="server" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+               
+            </table>
+        </div>
+        <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+        <div style="text-align:center;font-family:Arial;font-size:8pt;">
+            <hr style="size:1px;" />
+            This demo has been prepared by <a href="http://www.dotnetfunda.com">DotNetFunda.com</a>. Distribution of the contents without knowledge of the author is prohibited. Please contact <a href="mailto:webmaster@dotnetfunda.com">webmaster@dotnetfunda.com</a>. All rights reserved.
+        </div>
+        
+    </form>
+</body>
+</html>

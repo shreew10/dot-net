@@ -1,0 +1,7 @@
+E:\DOT NET\CONSOLE\PROJECT\ADOExample\obj\Debug\ADOExample.csprojAssemblyReference.cache
+E:\DOT NET\CONSOLE\PROJECT\ADOExample\obj\Debug\ADOExample.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\ADOExample\bin\Debug\ADOExample.exe.config
+E:\DOT NET\CONSOLE\PROJECT\ADOExample\bin\Debug\ADOExample.exe
+E:\DOT NET\CONSOLE\PROJECT\ADOExample\bin\Debug\ADOExample.pdb
+E:\DOT NET\CONSOLE\PROJECT\ADOExample\obj\Debug\ADOExample.exe
+E:\DOT NET\CONSOLE\PROJECT\ADOExample\obj\Debug\ADOExample.pdb

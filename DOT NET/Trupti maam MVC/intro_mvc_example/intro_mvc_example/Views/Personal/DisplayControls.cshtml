@@ -1,0 +1,74 @@
+﻿@model intro_mvc_example.Models.PersonalDetail
+
+
+<div style="margin-top:90px">
+
+    @using (Html.BeginForm("SaveData", "Personal", FormMethod.Post))
+    {
+        @Html.TextBoxFor(a => a.PId, new { id = "txtPlace" })
+
+        @Html.RadioButtonFor(a => a.PGender, "Male")<span>Male</span>
+
+        @Html.RadioButtonFor(a => a.PGender, "Female")<span>Female</span>
+
+
+
+        @Html.DropDownListFor(a => a.PCity, new List<SelectListItem>
+
+       {
+          new SelectListItem{ Text="Sangli", Value = "Sangli" },
+          new SelectListItem{ Text="Kolhapur", Value = "9" }
+       })
+
+        @Html.CheckBoxFor(a => a.Status)<span>active</span>
+
+        <input type="submit" id="submitId" value="submit" />
+    }
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<h1>hrdcoded</h1>
+<div>
+    @{
+
+        IEnumerable<string> strList = new List<string> { "MBA", "MCA", "MSC", "MCOM" };
+
+    }
+
+
+
+    @Html.DropDownList("ddlCourse", new SelectList(strList, strList.FirstOrDefault()), "--Select Course----")
+
+    @Html.CheckBox("Music")<span>music</span>
+
+    @*How to Set CheckBox() Default as Checked*@
+    @Html.CheckBox("Sports", true)<span>Sports</span>
+
+
+    @Html.RadioButton("Gender", "Male", false, new { id = "male" })
+    <span>Male</span>
+
+    @Html.RadioButton("Gender", "Female", true, new { id = "female" }) <span>Female</span>
+
+    @*How to set RadioButton() default as checked*@
+
+    @Html.RadioButton("Gender", "Other", true, new { id = "other" }) <span>other</span>
+
+    @Html.DropDownList("St", new List<SelectListItem>
+
+{
+   new SelectListItem{ Text="Active", Value = "1" },
+   new SelectListItem{ Text="Not-Active", Value = "0" }
+})
+</div>

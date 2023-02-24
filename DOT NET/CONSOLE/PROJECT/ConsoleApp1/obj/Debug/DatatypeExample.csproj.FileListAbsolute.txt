@@ -1,0 +1,14 @@
+E:\DOT NET\CONSOLE\PROJECT\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\DOT NET\CONSOLE\PROJECT\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\DOT NET\CONSOLE\PROJECT\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\DOT NET\CONSOLE\PROJECT\ConsoleApp1\obj\Debug\DatatypeExample.csprojAssemblyReference.cache
+E:\DOT NET\CONSOLE\PROJECT\ConsoleApp1\obj\Debug\DatatypeExample.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\DOT NET\CONSOLE\PROJECT\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\DOT NET\CONSOLE\PROJECT\DatatypeExample\obj\Debug\DatatypeExample.csprojAssemblyReference.cache
+E:\DOT NET\CONSOLE\PROJECT\DatatypeExample\obj\Debug\DatatypeExample.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\DatatypeExample\obj\Debug\ConsoleApp1.exe
+E:\DOT NET\CONSOLE\PROJECT\DatatypeExample\obj\Debug\ConsoleApp1.pdb
+E:\DOT NET\CONSOLE\PROJECT\DatatypeExample\bin\Debug\ConsoleApp1.exe.config
+E:\DOT NET\CONSOLE\PROJECT\DatatypeExample\bin\Debug\ConsoleApp1.exe
+E:\DOT NET\CONSOLE\PROJECT\DatatypeExample\bin\Debug\ConsoleApp1.pdb

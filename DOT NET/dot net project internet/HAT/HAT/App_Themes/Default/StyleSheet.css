@@ -1,0 +1,20 @@
+﻿body 
+{
+    margin-left:0px;
+    margin-top:0px;
+    font-family:Trebuchet MS;
+    font-size:10pt;
+}
+
+.EntryTableTitle
+{
+    background-color:#8888FF;   
+    color:White;
+    font-weight:bold;
+}
+
+.PlaceHolder
+{
+    text-align:center;
+    border:1px solid #c0c0c0;
+}

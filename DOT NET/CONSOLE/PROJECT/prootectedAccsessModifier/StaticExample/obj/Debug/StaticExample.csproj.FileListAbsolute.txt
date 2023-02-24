@@ -1,0 +1,7 @@
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\StaticExample\bin\Debug\StaticExample.exe.config
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\StaticExample\bin\Debug\StaticExample.exe
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\StaticExample\bin\Debug\StaticExample.pdb
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\StaticExample\obj\Debug\StaticExample.csprojAssemblyReference.cache
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\StaticExample\obj\Debug\StaticExample.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\StaticExample\obj\Debug\StaticExample.exe
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\StaticExample\obj\Debug\StaticExample.pdb

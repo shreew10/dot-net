@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\GridOperation\bin\Debug\GridOperation.exe.config
+C:\Users\hp\source\repos\GridOperation\bin\Debug\GridOperation.exe
+C:\Users\hp\source\repos\GridOperation\bin\Debug\GridOperation.pdb
+C:\Users\hp\source\repos\GridOperation\obj\Debug\GridOperation.Form1.resources
+C:\Users\hp\source\repos\GridOperation\obj\Debug\GridOperation.Properties.Resources.resources
+C:\Users\hp\source\repos\GridOperation\obj\Debug\GridOperation.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\GridOperation\obj\Debug\GridOperation.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GridOperation\obj\Debug\GridOperation.exe
+C:\Users\hp\source\repos\GridOperation\obj\Debug\GridOperation.pdb
+C:\Users\hp\source\repos\GridOperation\obj\Debug\GridOperation.csprojAssemblyReference.cache

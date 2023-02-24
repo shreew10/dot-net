@@ -1,0 +1,7 @@
+E:\DOT NET\CONSOLE\PROJECT\DataTableExample\bin\Debug\DataTableExample.exe.config
+E:\DOT NET\CONSOLE\PROJECT\DataTableExample\bin\Debug\DataTableExample.exe
+E:\DOT NET\CONSOLE\PROJECT\DataTableExample\bin\Debug\DataTableExample.pdb
+E:\DOT NET\CONSOLE\PROJECT\DataTableExample\obj\Debug\DataTableExample.csprojAssemblyReference.cache
+E:\DOT NET\CONSOLE\PROJECT\DataTableExample\obj\Debug\DataTableExample.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\DataTableExample\obj\Debug\DataTableExample.exe
+E:\DOT NET\CONSOLE\PROJECT\DataTableExample\obj\Debug\DataTableExample.pdb

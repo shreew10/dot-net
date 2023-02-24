@@ -1,0 +1,7 @@
+E:\Rutwi\ConsoleApp\ADOExam\ADOExample\ADOExample\bin\Debug\ADOExample.exe.config
+E:\Rutwi\ConsoleApp\ADOExam\ADOExample\ADOExample\bin\Debug\ADOExample.exe
+E:\Rutwi\ConsoleApp\ADOExam\ADOExample\ADOExample\bin\Debug\ADOExample.pdb
+E:\Rutwi\ConsoleApp\ADOExam\ADOExample\ADOExample\obj\Debug\ADOExample.csproj.AssemblyReference.cache
+E:\Rutwi\ConsoleApp\ADOExam\ADOExample\ADOExample\obj\Debug\ADOExample.csproj.CoreCompileInputs.cache
+E:\Rutwi\ConsoleApp\ADOExam\ADOExample\ADOExample\obj\Debug\ADOExample.exe
+E:\Rutwi\ConsoleApp\ADOExam\ADOExample\ADOExample\obj\Debug\ADOExample.pdb

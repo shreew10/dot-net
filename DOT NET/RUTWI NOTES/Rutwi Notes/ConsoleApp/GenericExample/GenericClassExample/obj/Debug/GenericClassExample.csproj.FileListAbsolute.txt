@@ -1,0 +1,7 @@
+E:\Rutwi\ConsoleApp\GenericExample\GenericClassExample\bin\Debug\GenericClassExample.exe.config
+E:\Rutwi\ConsoleApp\GenericExample\GenericClassExample\bin\Debug\GenericClassExample.exe
+E:\Rutwi\ConsoleApp\GenericExample\GenericClassExample\bin\Debug\GenericClassExample.pdb
+E:\Rutwi\ConsoleApp\GenericExample\GenericClassExample\obj\Debug\GenericClassExample.csproj.AssemblyReference.cache
+E:\Rutwi\ConsoleApp\GenericExample\GenericClassExample\obj\Debug\GenericClassExample.csproj.CoreCompileInputs.cache
+E:\Rutwi\ConsoleApp\GenericExample\GenericClassExample\obj\Debug\GenericClassExample.exe
+E:\Rutwi\ConsoleApp\GenericExample\GenericClassExample\obj\Debug\GenericClassExample.pdb

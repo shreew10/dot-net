@@ -1,0 +1,7 @@
+E:\Rutwi\ConsoleApp\ExceptionHandlingExam\ExceptionHandlingExample\ExceptionHandlingExample\bin\Debug\ExceptionHandlingExample.exe.config
+E:\Rutwi\ConsoleApp\ExceptionHandlingExam\ExceptionHandlingExample\ExceptionHandlingExample\bin\Debug\ExceptionHandlingExample.exe
+E:\Rutwi\ConsoleApp\ExceptionHandlingExam\ExceptionHandlingExample\ExceptionHandlingExample\bin\Debug\ExceptionHandlingExample.pdb
+E:\Rutwi\ConsoleApp\ExceptionHandlingExam\ExceptionHandlingExample\ExceptionHandlingExample\obj\Debug\ExceptionHandlingExample.csproj.AssemblyReference.cache
+E:\Rutwi\ConsoleApp\ExceptionHandlingExam\ExceptionHandlingExample\ExceptionHandlingExample\obj\Debug\ExceptionHandlingExample.csproj.CoreCompileInputs.cache
+E:\Rutwi\ConsoleApp\ExceptionHandlingExam\ExceptionHandlingExample\ExceptionHandlingExample\obj\Debug\ExceptionHandlingExample.exe
+E:\Rutwi\ConsoleApp\ExceptionHandlingExam\ExceptionHandlingExample\ExceptionHandlingExample\obj\Debug\ExceptionHandlingExample.pdb

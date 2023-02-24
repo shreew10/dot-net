@@ -1,0 +1,43 @@
+﻿@model NTTFramework.tbl_student_details
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>tbl_student_details</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.studName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.studName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.studGender)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.studGender)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.studSubject)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.studSubject)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.studRollno }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

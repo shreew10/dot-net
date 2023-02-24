@@ -1,0 +1,30 @@
+﻿.cls_Mandatory::before {
+    color: maroon;
+    font-size: small;
+    /*content: "*";*/
+}
+
+.button {
+    border: none;
+    color: white;
+    background-color: cornflowerblue;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.settings {
+    margin-bottom: 100px;
+}
+
+.cls_vt {
+    vertical-align: top;
+}
+
+.cls_Gender_margin {
+    margin-top: 5px;
+}

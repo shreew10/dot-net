@@ -1,0 +1,72 @@
+﻿<h3>Html helper class example</h3>
+
+@*HtmlhelperClass.funName(parameters)*@
+
+@Html.RadioButton("Gender", "Male", false, new { id = "Male" })<span>Male</span>
+@Html.RadioButton("Gender", "Female", true, new { id = "Female" })<span>Female</span>
+@Html.RadioButton("Gender", "other", false, new { id = "Other" })<span>Other</span>
+
+<br />
+
+@Html.CheckBox("Lang", true, new { id = "java" })<span>Java</span>
+@Html.CheckBox("Lang", true, new { Value = "c" })<span>c</span>
+@Html.CheckBox("Lang", false, new { Value = "c++" })<span>c++</span>
+@Html.CheckBox("Lang", false, new { Value = "c#" })<span>c#</span>
+<br />
+<br />
+
+@Html.TextBox("txt_name", "trupti")
+
+<br />
+
+@Html.TextArea("txtArea", new { id = "ta" })
+<br />
+@Html.DropDownList("city", new List<SelectListItem>
+{
+    new SelectListItem { Text = "Sangli", Value = "0" },
+    new SelectListItem { Text = "Satara", Value = "1" },
+    new SelectListItem { Text = "Chiplun", Value = "2" },
+    new SelectListItem { Text = "Pune", Value = "Pune" }
+}, "Select City")
+
+
+<br />
+
+@{
+    IEnumerable<string> strList = new List<string> { "MBA", "MCA", "MSC", "MCOM" };
+}
+@Html.DropDownList("ddlCourse", new SelectList(strList), "--Select Course----")
+<br />
+@Html.DropDownList("ddlCourse", new SelectList(strList, strList.FirstOrDefault()), "--Select Course----")
+<br />
+
+
+
+
+<h3>Html Tag</h3>
+<input type="radio" name="Gender" value="Male" checked="checked" id="male" />Male
+<input type="radio" name="Gender" value="Female" checked="checked" id="Female" />Female
+<br />
+
+
+<input type="checkbox" name="Lang" value="C" checked="checked" id="c" />c
+<input type="checkbox" name="Lang" value="C++" id="opps" />c++
+<input type="checkbox" name="Lang" value="C#" id="cSharp" />c#
+
+<br />
+<select>
+    <option value="0">Choose...</option>
+    <option value="1">Chiplun</option>
+    <option value="2">Pune</option>
+</select>
+<br />
+<br />
+
+<input type="submit" value="Save" />
+<input type="button" value="Display" />
+<input type="reset" value="Clear" />
+
+
+
+
+

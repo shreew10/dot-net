@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="ClinicProjectWeb2Jan.Main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Css/Menu.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="text-align: center">
+            <%--<h1 style="margin-left: 350px">Shree Multispeciality Hospital</h1>--%>
+            <h1>Shree Multispeciality Hospital</h1>
+            <address>
+                Malabar Hills Near Mahalaxmi Race Course South Mumbai -411236. Mob.No.-9874563214.
+            </address>
+            <marquee width="31%" direction="left" height="20px" hspace="10%">
+                Always in your service....
+            </marquee>
+        </div>
+        <div style="margin-bottom: 10px;">
+            <asp:Menu ID="Menu2" runat="Server"
+                Orientation="Horizontal" BackColor="#B5C7DE" DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" ForeColor="#284E98">
+                <DynamicHoverStyle BackColor="#284E98" ForeColor="White" />
+                <DynamicMenuStyle BackColor="#B5C7DE" />
+                <StaticSelectedStyle BackColor="#507CD1" />
+                <DynamicSelectedStyle BackColor="#507CD1" />
+                <StaticHoverStyle BackColor="#284E98" ForeColor="White" />
+                <Items>
+                    <asp:MenuItem Text="Master" Value="Master">
+                        <asp:MenuItem Text="Clinic" Value="Clinic" NavigateUrl="~/PresentationLayer/frmClinic.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Staff" Value="Staff" NavigateUrl="~/PresentationLayer/frmStaff.aspx"></asp:MenuItem>
+                        <asp:MenuItem Text="Patient" Value="Patient" NavigateUrl="~/PresentationLayer/frmPatient.aspx"></asp:MenuItem>
+                    </asp:MenuItem>
+                    <asp:MenuItem Text="Transaction" Value="Transaction">
+                        <asp:MenuItem Text="Appointment" Value="Appointment"></asp:MenuItem>
+                        <asp:MenuItem Text="Visit" Value="Visit" NavigateUrl="~/PresentationLayer/frmVisit.aspx"></asp:MenuItem>
+                    </asp:MenuItem>
+                </Items>
+            </asp:Menu>
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>

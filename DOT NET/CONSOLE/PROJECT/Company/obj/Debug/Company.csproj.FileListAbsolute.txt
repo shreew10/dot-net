@@ -1,0 +1,7 @@
+E:\DOT NET\CONSOLE\PROJECT\Company\bin\Debug\Company.exe.config
+E:\DOT NET\CONSOLE\PROJECT\Company\bin\Debug\Company.exe
+E:\DOT NET\CONSOLE\PROJECT\Company\bin\Debug\Company.pdb
+E:\DOT NET\CONSOLE\PROJECT\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\Company\obj\Debug\Company.exe
+E:\DOT NET\CONSOLE\PROJECT\Company\obj\Debug\Company.pdb
+E:\DOT NET\CONSOLE\PROJECT\Company\obj\Debug\Company.csprojAssemblyReference.cache

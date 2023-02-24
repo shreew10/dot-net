@@ -1,0 +1,7 @@
+E:\Rutwi\ConsoleApp\DelegateExam\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe.config
+E:\Rutwi\ConsoleApp\DelegateExam\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe
+E:\Rutwi\ConsoleApp\DelegateExam\DelegateExample\DelegateExample\bin\Debug\DelegateExample.pdb
+E:\Rutwi\ConsoleApp\DelegateExam\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csproj.AssemblyReference.cache
+E:\Rutwi\ConsoleApp\DelegateExam\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csproj.CoreCompileInputs.cache
+E:\Rutwi\ConsoleApp\DelegateExam\DelegateExample\DelegateExample\obj\Debug\DelegateExample.exe
+E:\Rutwi\ConsoleApp\DelegateExam\DelegateExample\DelegateExample\obj\Debug\DelegateExample.pdb

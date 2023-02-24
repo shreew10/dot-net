@@ -1,0 +1,138 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Configuration;
+using System.Data.SqlClient;
+
+namespace WindowProject
+{
+    public partial class test : Form
+    {
+        SqlConnection conSp = new SqlConnection(ConfigurationManager.ConnectionStrings["conDemo"].ConnectionString);
+        int b;
+        public test()
+        {
+            InitializeComponent();
+            Gridfill();
+        }
+
+        void funclear()
+        {
+            try
+            {
+                txt_staff_name.Text = "";
+                cmb_staff_city.SelectedIndex = -1;
+                txt_staff_email.Text = "";
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+        void Gridfill()
+        {
+            try
+            {
+                SqlCommand cmdStaff = new SqlCommand("sp_get_emp_details", conSp);
+                conSp.Open();
+                cmdStaff.CommandType = CommandType.StoredProcedure;  // passing value to stored procedure
+                SqlDataAdapter sdaStaff = new SqlDataAdapter(cmdStaff);
+                DataTable dtStaff = new DataTable();
+                sdaStaff.Fill(dtStaff);
+                conSp.Close();
+                dgv_staff_detail.DataSource = dtStaff;
+                dgv_staff_detail.Columns[2].Visible = false;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+        private void btn_staff_clear_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                funclear();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+        private void btn_staff_save_Click(object sender, EventArgs e)
+        {
+            try
+            {
+
+                SqlCommand cmdStaff = new SqlCommand("sp_set_emp", conSp);
+                cmdStaff.CommandType = CommandType.StoredProcedure;
+
+                conSp.Open();
+                cmdStaff.Parameters.AddWithValue("@para_EmpID", b);
+                cmdStaff.Parameters.AddWithValue("@para_EmpName", txt_staff_name.Text);
+                cmdStaff.Parameters.AddWithValue("@para_EmpCity", cmb_staff_city.Text);
+                cmdStaff.Parameters.AddWithValue("@para_EmpEmail", txt_staff_email.Text);
+                cmdStaff.ExecuteNonQuery();
+                conSp.Close();
+                Gridfill();
+                funclear();
+                //message box show
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+        private void dgv_staff_detail_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            try
+            {
+                b = Convert.ToInt32(dgv_staff_detail.Rows[e.RowIndex].Cells["EmpId"].Value);
+                if (e.ColumnIndex == 0)
+                {
+                    //Edit Operation
+                    SqlCommand cmdEdit = new SqlCommand("sp_get_emp_detail_by_id", conSp);
+                    conSp.Open();
+                    cmdEdit.CommandType = CommandType.StoredProcedure;
+                    cmdEdit.Parameters.AddWithValue("@para_EmpId", b);  // pass parameters to stored procedured
+                    SqlDataAdapter sdaEdit = new SqlDataAdapter(cmdEdit);
+                    DataTable dt = new DataTable();
+                    sdaEdit.Fill(dt);
+                    conSp.Close();
+                    if (dt.Rows.Count > 0)
+                    {
+                        txt_staff_name.Text = Convert.ToString(dt.Rows[0]["EmpName"]);
+                        cmb_staff_city.SelectedItem = Convert.ToString(dt.Rows[0]["EmpCity"]);
+                        txt_staff_email.Text = Convert.ToString(dt.Rows[0]["EmpEmail"]);
+                    }
+                }
+                else if (e.ColumnIndex == 1)
+                {
+                    DialogResult result = MessageBox.Show("Do You Want To Delete The Data?", "Dialog", MessageBoxButtons.YesNo, MessageBoxIcon.Warning, MessageBoxDefaultButton.Button2); // To get Value from Button
+                    if (result == DialogResult.Yes)
+                    {
+                        SqlCommand cmdDelete = new SqlCommand("sp_delete_emp", conSp);
+                        conSp.Open();
+                        cmdDelete.CommandType = CommandType.StoredProcedure;
+                        cmdDelete.Parameters.AddWithValue("@para_EmpId", b);
+                        cmdDelete.ExecuteNonQuery();
+                        conSp.Close();
+                        MessageBox.Show("Data Deleted Successfully", "Dialog Box", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        Gridfill();
+                        // To show msg use b value and show insert...update msg.
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+    }
+}

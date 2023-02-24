@@ -1,0 +1,7 @@
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\ProjectWednesday9-11\bin\Debug\ProjectWednesday9-11.exe.config
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\ProjectWednesday9-11\bin\Debug\ProjectWednesday9-11.exe
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\ProjectWednesday9-11\bin\Debug\ProjectWednesday9-11.pdb
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\ProjectWednesday9-11\obj\Debug\ProjectWednesday9-11.csprojAssemblyReference.cache
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\ProjectWednesday9-11\obj\Debug\ProjectWednesday9-11.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\ProjectWednesday9-11\obj\Debug\ProjectWednesday9-11.exe
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\ProjectWednesday9-11\obj\Debug\ProjectWednesday9-11.pdb

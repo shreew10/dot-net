@@ -1,0 +1,14 @@
+E:\Rutwi\ConsoleApp\InterfaceExam\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+E:\Rutwi\ConsoleApp\InterfaceExam\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe
+E:\Rutwi\ConsoleApp\InterfaceExam\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.pdb
+E:\Rutwi\ConsoleApp\InterfaceExam\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csproj.AssemblyReference.cache
+E:\Rutwi\ConsoleApp\InterfaceExam\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csproj.CoreCompileInputs.cache
+E:\Rutwi\ConsoleApp\InterfaceExam\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.exe
+E:\Rutwi\ConsoleApp\InterfaceExam\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.pdb
+D:\Rutwi\ConsoleApp\ConstructorExam\InterfaceExam\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+D:\Rutwi\ConsoleApp\ConstructorExam\InterfaceExam\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe
+D:\Rutwi\ConsoleApp\ConstructorExam\InterfaceExam\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.pdb
+D:\Rutwi\ConsoleApp\ConstructorExam\InterfaceExam\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csprojAssemblyReference.cache
+D:\Rutwi\ConsoleApp\ConstructorExam\InterfaceExam\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csproj.CoreCompileInputs.cache
+D:\Rutwi\ConsoleApp\ConstructorExam\InterfaceExam\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.exe
+D:\Rutwi\ConsoleApp\ConstructorExam\InterfaceExam\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.pdb

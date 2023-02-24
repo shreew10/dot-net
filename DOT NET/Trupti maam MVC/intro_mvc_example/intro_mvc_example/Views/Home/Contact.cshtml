@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+
+<br />
+<div class="row">
+    <h1>@TempData["TDHeader"]</h1>
+</div>
+
+<div class="row">
+    <ul>
+        @foreach (var item in (List<string>)TempData["TDStudent"])
+        {
+            <li>@item</li>
+        }
+    </ul>
+</div>

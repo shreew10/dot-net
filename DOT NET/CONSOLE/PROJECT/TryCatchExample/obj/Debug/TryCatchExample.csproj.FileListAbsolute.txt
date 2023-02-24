@@ -1,0 +1,7 @@
+E:\DOT NET\CONSOLE\PROJECT\TryCatchExample\bin\Debug\TryCatchExample.exe.config
+E:\DOT NET\CONSOLE\PROJECT\TryCatchExample\bin\Debug\TryCatchExample.exe
+E:\DOT NET\CONSOLE\PROJECT\TryCatchExample\bin\Debug\TryCatchExample.pdb
+E:\DOT NET\CONSOLE\PROJECT\TryCatchExample\obj\Debug\TryCatchExample.csprojAssemblyReference.cache
+E:\DOT NET\CONSOLE\PROJECT\TryCatchExample\obj\Debug\TryCatchExample.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\TryCatchExample\obj\Debug\TryCatchExample.exe
+E:\DOT NET\CONSOLE\PROJECT\TryCatchExample\obj\Debug\TryCatchExample.pdb

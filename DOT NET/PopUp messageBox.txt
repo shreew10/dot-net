@@ -1,0 +1,39 @@
+ protected void btn_save_Click(object sender, EventArgs e)
+        {
+            lbl_msg.Text = "Data Save successfully.....";
+            mpe.Show();
+            pnl_message.Visible = true;
+        }
+
+        protected void btn_clear_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void btn_ok_Click(object sender, EventArgs e)
+        {
+            mpe.Hide();
+            pnl_message.Visible = false;
+        }
+
+        protected void btn_delete_Click(object sender, EventArgs e)
+        {
+            mpe_confi.Show();
+            pnl_confi.Visible = true;
+        }
+
+        protected void btn_Yes_Click(object sender, EventArgs e)
+        {
+            mpe_confi.Hide();
+            pnl_confi.Visible = false;
+
+            lbl_msg.Text = "Data Deleted successfully.....";
+            mpe.Show();
+            pnl_message.Visible = true;
+        }
+
+        protected void btn_cancel_Click(object sender, EventArgs e)
+        {
+            mpe_confi.Hide();
+            pnl_confi.Visible = false;
+        }

@@ -1,0 +1,7 @@
+E:\DOT NET\CONSOLE\PROJECT\StucturePractiseDay3\goToEcample\bin\Debug\goToEcample.exe.config
+E:\DOT NET\CONSOLE\PROJECT\StucturePractiseDay3\goToEcample\bin\Debug\goToEcample.exe
+E:\DOT NET\CONSOLE\PROJECT\StucturePractiseDay3\goToEcample\bin\Debug\goToEcample.pdb
+E:\DOT NET\CONSOLE\PROJECT\StucturePractiseDay3\goToEcample\obj\Debug\goToEcample.csprojAssemblyReference.cache
+E:\DOT NET\CONSOLE\PROJECT\StucturePractiseDay3\goToEcample\obj\Debug\goToEcample.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\StucturePractiseDay3\goToEcample\obj\Debug\goToEcample.exe
+E:\DOT NET\CONSOLE\PROJECT\StucturePractiseDay3\goToEcample\obj\Debug\goToEcample.pdb

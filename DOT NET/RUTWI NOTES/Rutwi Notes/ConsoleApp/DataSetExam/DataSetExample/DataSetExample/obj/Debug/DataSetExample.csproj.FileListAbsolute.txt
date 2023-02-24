@@ -1,0 +1,7 @@
+E:\Rutwi\ConsoleApp\DataSetExam\DataSetExample\DataSetExample\bin\Debug\DataSetExample.exe.config
+E:\Rutwi\ConsoleApp\DataSetExam\DataSetExample\DataSetExample\bin\Debug\DataSetExample.exe
+E:\Rutwi\ConsoleApp\DataSetExam\DataSetExample\DataSetExample\bin\Debug\DataSetExample.pdb
+E:\Rutwi\ConsoleApp\DataSetExam\DataSetExample\DataSetExample\obj\Debug\DataSetExample.csproj.AssemblyReference.cache
+E:\Rutwi\ConsoleApp\DataSetExam\DataSetExample\DataSetExample\obj\Debug\DataSetExample.csproj.CoreCompileInputs.cache
+E:\Rutwi\ConsoleApp\DataSetExam\DataSetExample\DataSetExample\obj\Debug\DataSetExample.exe
+E:\Rutwi\ConsoleApp\DataSetExam\DataSetExample\DataSetExample\obj\Debug\DataSetExample.pdb

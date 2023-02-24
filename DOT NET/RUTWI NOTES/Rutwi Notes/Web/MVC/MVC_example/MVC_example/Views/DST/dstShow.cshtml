@@ -1,0 +1,34 @@
+﻿
+<h2>Data Sharing Techniques</h2>
+<html>
+<head>
+    <title> Student Details</title>
+</head>
+<body>
+    <div>
+        @ViewData["Name:"] <br />
+        @ViewData["City:"]
+    </div>
+    <div>
+        <ol>
+            @foreach (var item in (List<string>)ViewData["Subjects"])
+            {
+                <li>@item</li>
+            }
+        </ol>
+    </div>
+    <div>
+        @ViewBag.Name <br />
+        @ViewBag.City
+    </div>
+    <div>
+        <ol>
+            @foreach (var item in ViewBag.Subjects)
+            {
+               <li>@item</li>
+            }
+        </ol>
+    </div>
+</body>
+</html>
+

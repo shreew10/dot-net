@@ -1,0 +1,20 @@
+﻿<h1>Data Sharing Techniques</h1>
+
+@ViewData["VD_Name"]
+
+<ul>
+    @foreach (var item in (List<string>)ViewData["VD_List"])
+    {
+        <li>@item</li>
+    }
+</ul>                                                                   
+
+
+@ViewBag.VB_Simple
+
+<ul>
+    @foreach (var item in ViewBag.VB_List)
+    {
+        <li>@item</li>
+    }
+</ul>

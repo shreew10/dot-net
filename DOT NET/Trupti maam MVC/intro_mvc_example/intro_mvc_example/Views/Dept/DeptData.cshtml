@@ -1,0 +1,13 @@
+﻿@model intro_mvc_example.Models.DeptModel
+@{
+    ViewBag.Title = "DeptData";
+}
+
+<h2>@Model.DeptID</h2>
+<h2>@Model.DeptName</h2>
+<h2>@Model.DeptContact</h2>
+<h2>@Model.DeptDate</h2>
+
+<h1>
+    @TempData["TD"]
+</h1>

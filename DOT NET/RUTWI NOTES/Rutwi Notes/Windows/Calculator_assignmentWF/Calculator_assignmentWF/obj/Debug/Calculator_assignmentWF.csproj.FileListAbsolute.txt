@@ -1,0 +1,10 @@
+D:\Rutwi\Windows\Calculator_assignmentWF\Calculator_assignmentWF\obj\Debug\Calculator_assignmentWF.csprojAssemblyReference.cache
+D:\Rutwi\Windows\Calculator_assignmentWF\Calculator_assignmentWF\obj\Debug\Calculator_assignmentWF.Form1.resources
+D:\Rutwi\Windows\Calculator_assignmentWF\Calculator_assignmentWF\obj\Debug\Calculator_assignmentWF.Properties.Resources.resources
+D:\Rutwi\Windows\Calculator_assignmentWF\Calculator_assignmentWF\obj\Debug\Calculator_assignmentWF.csproj.GenerateResource.cache
+D:\Rutwi\Windows\Calculator_assignmentWF\Calculator_assignmentWF\obj\Debug\Calculator_assignmentWF.csproj.CoreCompileInputs.cache
+D:\Rutwi\Windows\Calculator_assignmentWF\Calculator_assignmentWF\bin\Debug\Calculator_assignmentWF.exe.config
+D:\Rutwi\Windows\Calculator_assignmentWF\Calculator_assignmentWF\bin\Debug\Calculator_assignmentWF.exe
+D:\Rutwi\Windows\Calculator_assignmentWF\Calculator_assignmentWF\bin\Debug\Calculator_assignmentWF.pdb
+D:\Rutwi\Windows\Calculator_assignmentWF\Calculator_assignmentWF\obj\Debug\Calculator_assignmentWF.exe
+D:\Rutwi\Windows\Calculator_assignmentWF\Calculator_assignmentWF\obj\Debug\Calculator_assignmentWF.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="tempdb_TruptiModelStoreContainer" CdmEntityContainer="tempdb_TruptiEntities1">
+    <EntitySetMapping Name="tbl_student_details">
+      <EntityTypeMapping TypeName="tempdb_TruptiModel.tbl_student_details">
+        <MappingFragment StoreEntitySet="tbl_student_details">
+          <ScalarProperty Name="studRollno" ColumnName="studRollno" />
+          <ScalarProperty Name="studName" ColumnName="studName" />
+          <ScalarProperty Name="studGender" ColumnName="studGender" />
+          <ScalarProperty Name="studSubject" ColumnName="studSubject" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

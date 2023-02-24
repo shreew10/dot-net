@@ -1,0 +1,7 @@
+E:\DOT NET\CONSOLE\PROJECT\AdoExample1\bin\Debug\AdoExample1.exe.config
+E:\DOT NET\CONSOLE\PROJECT\AdoExample1\bin\Debug\AdoExample1.exe
+E:\DOT NET\CONSOLE\PROJECT\AdoExample1\bin\Debug\AdoExample1.pdb
+E:\DOT NET\CONSOLE\PROJECT\AdoExample1\obj\Debug\AdoExample1.csprojAssemblyReference.cache
+E:\DOT NET\CONSOLE\PROJECT\AdoExample1\obj\Debug\AdoExample1.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\AdoExample1\obj\Debug\AdoExample1.exe
+E:\DOT NET\CONSOLE\PROJECT\AdoExample1\obj\Debug\AdoExample1.pdb

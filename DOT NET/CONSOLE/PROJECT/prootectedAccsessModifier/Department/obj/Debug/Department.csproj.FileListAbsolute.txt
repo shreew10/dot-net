@@ -1,0 +1,11 @@
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\Department\bin\Debug\Department.exe.config
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\Department\bin\Debug\Department.exe
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\Department\bin\Debug\Department.pdb
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\Department\bin\Debug\ProjectWednesday9-11.exe
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\Department\bin\Debug\ProjectWednesday9-11.pdb
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\Department\bin\Debug\ProjectWednesday9-11.exe.config
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\Department\obj\Debug\Department.csprojAssemblyReference.cache
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\Department\obj\Debug\Department.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\Department\obj\Debug\Department.csproj.CopyComplete
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\Department\obj\Debug\Department.exe
+E:\DOT NET\CONSOLE\PROJECT\prootectedAccsessModifier\Department\obj\Debug\Department.pdb

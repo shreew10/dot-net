@@ -1,0 +1,6 @@
+E:\Rutwi\ConsoleApp\ExceptionHandlingExam\ExceptionHandlingExample\InvalidExceptionExam\bin\Debug\InvalidExceptionExam.exe.config
+E:\Rutwi\ConsoleApp\ExceptionHandlingExam\ExceptionHandlingExample\InvalidExceptionExam\bin\Debug\InvalidExceptionExam.exe
+E:\Rutwi\ConsoleApp\ExceptionHandlingExam\ExceptionHandlingExample\InvalidExceptionExam\bin\Debug\InvalidExceptionExam.pdb
+E:\Rutwi\ConsoleApp\ExceptionHandlingExam\ExceptionHandlingExample\InvalidExceptionExam\obj\Debug\InvalidExceptionExam.csproj.CoreCompileInputs.cache
+E:\Rutwi\ConsoleApp\ExceptionHandlingExam\ExceptionHandlingExample\InvalidExceptionExam\obj\Debug\InvalidExceptionExam.exe
+E:\Rutwi\ConsoleApp\ExceptionHandlingExam\ExceptionHandlingExample\InvalidExceptionExam\obj\Debug\InvalidExceptionExam.pdb

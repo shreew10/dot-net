@@ -1,0 +1,7 @@
+E:\Rutwi\ConsoleApp\CollectionClassExam\CollectionClassEx\CollectionClassEx\bin\Debug\CollectionClassEx.exe.config
+E:\Rutwi\ConsoleApp\CollectionClassExam\CollectionClassEx\CollectionClassEx\bin\Debug\CollectionClassEx.exe
+E:\Rutwi\ConsoleApp\CollectionClassExam\CollectionClassEx\CollectionClassEx\bin\Debug\CollectionClassEx.pdb
+E:\Rutwi\ConsoleApp\CollectionClassExam\CollectionClassEx\CollectionClassEx\obj\Debug\CollectionClassEx.csproj.AssemblyReference.cache
+E:\Rutwi\ConsoleApp\CollectionClassExam\CollectionClassEx\CollectionClassEx\obj\Debug\CollectionClassEx.csproj.CoreCompileInputs.cache
+E:\Rutwi\ConsoleApp\CollectionClassExam\CollectionClassEx\CollectionClassEx\obj\Debug\CollectionClassEx.exe
+E:\Rutwi\ConsoleApp\CollectionClassExam\CollectionClassEx\CollectionClassEx\obj\Debug\CollectionClassEx.pdb

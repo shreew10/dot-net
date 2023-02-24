@@ -1,0 +1,141 @@
+USE [db_drving_school]
+GO
+
+/****** Object:  Table [dbo].[tbl_company]    Script Date: 30-11-2022 13:37:59 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[tbl_company](
+	[comp_name] [varchar](30) NOT NULL,
+	[comp_address] [varchar](200) NOT NULL,
+	[comp_contact] [varchar](12) NOT NULL,
+	[comp_email] [varchar](100) NOT NULL,
+	[comp_website] [varchar](100) NOT NULL
+) ON [PRIMARY]
+GO
+
+/****** Object:  Table [dbo].[tbl_daily_training]    Script Date: 30-11-2022 13:37:59 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[tbl_daily_training](
+	[training_id] [int] NOT NULL,
+	[training_date] [datetime] NOT NULL,
+	[student_daily_km] [int] NOT NULL,
+	[stud_aadhar_card] [varchar](12) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[training_id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+/****** Object:  Table [dbo].[tbl_master]    Script Date: 30-11-2022 13:37:59 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[tbl_master](
+	[mst_id] [int] NOT NULL,
+	[category] [varchar](15) NOT NULL,
+	[vehicle_type] [varchar](15) NOT NULL,
+	[fee_amount] [real] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[mst_id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+/****** Object:  Table [dbo].[tbl_payment_details]    Script Date: 30-11-2022 13:37:59 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[tbl_payment_details](
+	[reciept_no] [int] NOT NULL,
+	[mode_of_payment] [varchar](25) NOT NULL,
+	[amount] [real] NOT NULL,
+	[cheque_number] [varchar](15) NULL,
+	[cheque_date] [date] NULL,
+	[bank_name] [varchar](50) NULL,
+	[branch_name] [varchar](50) NULL,
+	[fee_type] [varchar](25) NOT NULL,
+	[stud_aadhar_card] [varchar](12) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[reciept_no] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+/****** Object:  Table [dbo].[tbl_staff_details]    Script Date: 30-11-2022 13:37:59 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[tbl_staff_details](
+	[staff_aadhar_card] [varchar](12) NOT NULL,
+	[staff_name] [varchar](25) NOT NULL,
+	[staff_address] [varchar](100) NULL,
+	[staff_city] [varchar](15) NULL,
+	[staff_area] [varchar](20) NULL,
+	[staff_contact] [varchar](13) NOT NULL,
+	[staff_pan_card] [varchar](10) NOT NULL,
+	[staff_gender] [char](1) NOT NULL,
+	[staff_email] [varchar](15) NOT NULL,
+	[staff_password] [varchar](10) NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[staff_aadhar_card] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+/****** Object:  Table [dbo].[tbl_student_details]    Script Date: 30-11-2022 13:37:59 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[tbl_student_details](
+	[stud_aadhar_card] [varchar](12) NOT NULL,
+	[stud_name] [varchar](50) NOT NULL,
+	[stud_gender] [char](1) NOT NULL,
+	[stud_dob] [date] NOT NULL,
+	[stud_address] [varchar](max) NOT NULL,
+	[stud_area] [varchar](20) NOT NULL,
+	[stud_city] [varchar](20) NOT NULL,
+	[stud_pincode] [varchar](1) NOT NULL,
+	[stud_pan_card] [varchar](10) NOT NULL,
+	[stud_joining_date] [date] NOT NULL,
+	[stud_contact] [varchar](10) NOT NULL,
+	[vehicle_type] [varchar](15) NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[stud_aadhar_card] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[tbl_daily_training]  WITH CHECK ADD FOREIGN KEY([stud_aadhar_card])
+REFERENCES [dbo].[tbl_student_details] ([stud_aadhar_card])
+GO
+
+ALTER TABLE [dbo].[tbl_payment_details]  WITH CHECK ADD FOREIGN KEY([stud_aadhar_card])
+REFERENCES [dbo].[tbl_student_details] ([stud_aadhar_card])
+GO
+

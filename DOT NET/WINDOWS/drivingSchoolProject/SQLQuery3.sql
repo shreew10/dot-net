@@ -1,0 +1,11 @@
+SELECT stud_aadhar_card,stud_name,stud_joining_date FROM tbl_student_details
+
+SELECT reciept_no,mode_of_payment,amount fROM tbl_payment_details
+
+SELECT mst_id,category,vehicle_type,fee_amount FROM tbl_master
+
+SELECT training_id,training_date,student_daily_km FROM tbl_daily_training
+
+SELECT comp_name,comp_address,comp_contact,comp_email,comp_website FROM tbl_company
+
+SELECT staff_aadhar_card,staff_name,staff_address,staff_city,staff_area,staff_contact,staff_pan_card,staff_gender,staff_email,staff_password FROM tbl_staff_details

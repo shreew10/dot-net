@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="tempdb_TruptiModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tbl_student_details">
+    <Key>
+      <PropertyRef Name="studRollno" />
+    </Key>
+    <Property Name="studRollno" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="studName" Type="varchar" MaxLength="100" />
+    <Property Name="studGender" Type="varchar" MaxLength="100" />
+    <Property Name="studSubject" Type="varchar" MaxLength="150" />
+  </EntityType>
+  <EntityContainer Name="tempdb_TruptiModelStoreContainer">
+    <EntitySet Name="tbl_student_details" EntityType="Self.tbl_student_details" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

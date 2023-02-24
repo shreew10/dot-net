@@ -1,0 +1,16 @@
+D:\Rutwi\Windows\Windows Project\WF_drriving_school\WF_drriving_school\bin\Debug\WF_drriving_school.exe.config
+D:\Rutwi\Windows\Windows Project\WF_drriving_school\WF_drriving_school\bin\Debug\WF_drriving_school.exe
+D:\Rutwi\Windows\Windows Project\WF_drriving_school\WF_drriving_school\bin\Debug\WF_drriving_school.pdb
+D:\Rutwi\Windows\Windows Project\WF_drriving_school\WF_drriving_school\obj\Debug\WF_drriving_school.csprojAssemblyReference.cache
+D:\Rutwi\Windows\Windows Project\WF_drriving_school\WF_drriving_school\obj\Debug\WF_drriving_school.Properties.Resources.resources
+D:\Rutwi\Windows\Windows Project\WF_drriving_school\WF_drriving_school\obj\Debug\WF_drriving_school.csproj.GenerateResource.cache
+D:\Rutwi\Windows\Windows Project\WF_drriving_school\WF_drriving_school\obj\Debug\WF_drriving_school.csproj.CoreCompileInputs.cache
+D:\Rutwi\Windows\Windows Project\WF_drriving_school\WF_drriving_school\obj\Debug\WF_drriving_school.exe
+D:\Rutwi\Windows\Windows Project\WF_drriving_school\WF_drriving_school\obj\Debug\WF_drriving_school.pdb
+D:\Rutwi\Windows\Windows Project\WF_drriving_school\WF_drriving_school\obj\Debug\WF_drriving_school.frm_home_page.resources
+D:\Rutwi\Windows\Windows Project\WF_drriving_school\WF_drriving_school\obj\Debug\WF_drriving_school.frm_main.resources
+D:\Rutwi\Windows\Windows Project\WF_drriving_school\WF_drriving_school\obj\Debug\WF_drriving_school.frm_company.resources
+D:\Rutwi\Windows\Windows Project\WF_drriving_school\WF_drriving_school\obj\Debug\WF_drriving_school.frm_staff_details.resources
+D:\Rutwi\Windows\Windows Project\WF_drriving_school\WF_drriving_school\obj\Debug\WF_drriving_school.frm_payment_details.resources
+D:\Rutwi\Windows\Windows Project\WF_drriving_school\WF_drriving_school\obj\Debug\WF_drriving_school.frm_student_details.resources
+D:\Rutwi\Windows\Windows Project\WF_drriving_school\WF_drriving_school\obj\Debug\WF_drriving_school.frm_daily_training.resources

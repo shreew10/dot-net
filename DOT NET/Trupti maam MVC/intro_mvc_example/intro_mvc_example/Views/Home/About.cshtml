@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+
+<br />
+
+<div class="row">
+    <h2>@ViewBag.VBHeader</h2>
+</div>
+
+<div class="row">
+    <ul>
+        @foreach (var item in ViewBag.VBStudent)
+        {
+            <li>@item</li>
+        }
+    </ul>
+</div>
+

@@ -1,0 +1,11 @@
+E:\DOT NET\WINDOWS\DbConnectivityYoutube\obj\Debug\DbConnectivityYoutube.Form1.resources
+E:\DOT NET\WINDOWS\DbConnectivityYoutube\obj\Debug\DbConnectivityYoutube.Properties.Resources.resources
+E:\DOT NET\WINDOWS\DbConnectivityYoutube\obj\Debug\DbConnectivityYoutube.csproj.GenerateResource.cache
+E:\DOT NET\WINDOWS\DbConnectivityYoutube\obj\Debug\DbConnectivityYoutube.csproj.CoreCompileInputs.cache
+E:\DOT NET\WINDOWS\DbConnectivityYoutube\bin\Debug\DbConnectivityYoutube.exe.config
+E:\DOT NET\WINDOWS\DbConnectivityYoutube\bin\Debug\DbConnectivityYoutube.exe
+E:\DOT NET\WINDOWS\DbConnectivityYoutube\bin\Debug\DbConnectivityYoutube.pdb
+E:\DOT NET\WINDOWS\DbConnectivityYoutube\obj\Debug\DbConnectivityYoutube.exe
+E:\DOT NET\WINDOWS\DbConnectivityYoutube\obj\Debug\DbConnectivityYoutube.pdb
+E:\DOT NET\WINDOWS\DbConnectivityYoutube\obj\Debug\DbConnectivityYoutube.HomePage.resources
+E:\DOT NET\WINDOWS\DbConnectivityYoutube\obj\Debug\DbConnectivityYoutube.csprojAssemblyReference.cache

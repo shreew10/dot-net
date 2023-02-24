@@ -1,0 +1,76 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+<%@ Register Src="include/menu.ascx" TagName="menu" TagPrefix="uc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title runat="server">Untitled Page</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <uc1:menu ID="Menu1" runat="server" />
+            <table width="100%" cellpadding="2" cellspacing="0">
+                <tr valign="top">
+                    <td style="width: 200px; background-color: #FFFBD6;">
+                        <div style="border:1px solid #c6d4d8;text-align:center;">
+                        DotNetFunda<br />
+                        Home Account Tracker
+                        </div>
+                        <asp:TreeView ID="TreeView1" runat="server" DataSourceID="SiteMapDataSource1" ImageSet="WindowsHelp"
+                            ShowLines="True">
+                            <ParentNodeStyle Font-Bold="False" />
+                            <HoverNodeStyle Font-Underline="True" ForeColor="#6666AA" />
+                            <SelectedNodeStyle BackColor="#B5B5B5" Font-Underline="False" HorizontalPadding="0px"
+                                VerticalPadding="0px" />
+                            <NodeStyle Font-Names="Tahoma" Font-Size="8pt" ForeColor="Black" HorizontalPadding="5px"
+                                NodeSpacing="0px" VerticalPadding="1px" />
+                        </asp:TreeView>
+                        <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+                    </td>
+                    <td>
+                        <table width="100%">
+                            <tr>
+                                <td>
+                                    <asp:SiteMapPath runat="server" ID="SiteMapPath1" />
+                                </td>
+                                <td align="right">
+                                    <asp:LoginView ID="LoginView1" runat="Server">
+                                        <AnonymousTemplate>
+                                            <span style="font-family: Arial; font-size: 10pt;">Welcome, Guest
+                                                <asp:LoginStatus ID="LoginStatus1" runat="Server" />
+                                            </span>
+                                        </AnonymousTemplate>
+                                        <LoggedInTemplate>
+                                            Welcome,
+                                            <asp:LoginName ID="LoginName1" runat="Server" />
+                                            <asp:LoginStatus ID="LoginStatus1" runat="Server" />
+                                        </LoggedInTemplate>
+                                        
+                                    </asp:LoginView>
+                                </td>
+                            </tr>
+                        </table>
+                        <br />
+                        <br />
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            &nbsp;</asp:ContentPlaceHolder>
+                        <asp:ContentPlaceHolder ID="FooterPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </form>
+
+    <script language="javascript" type="text/javascript">
+    
+    function openWindow(url)
+    {
+        newwindow = window.open(url, 'headRecords', 'width=500,height=400');
+        newwindow.focus();
+    }
+    
+    </script>
+
+</body>
+</html>

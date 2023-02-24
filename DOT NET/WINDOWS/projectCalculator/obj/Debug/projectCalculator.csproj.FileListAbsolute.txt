@@ -1,0 +1,10 @@
+E:\DOT NET\WINDOWS\projectCalculator\bin\Debug\projectCalculator.exe.config
+E:\DOT NET\WINDOWS\projectCalculator\bin\Debug\projectCalculator.exe
+E:\DOT NET\WINDOWS\projectCalculator\bin\Debug\projectCalculator.pdb
+E:\DOT NET\WINDOWS\projectCalculator\obj\Debug\projectCalculator.Properties.Resources.resources
+E:\DOT NET\WINDOWS\projectCalculator\obj\Debug\projectCalculator.csproj.GenerateResource.cache
+E:\DOT NET\WINDOWS\projectCalculator\obj\Debug\projectCalculator.csproj.CoreCompileInputs.cache
+E:\DOT NET\WINDOWS\projectCalculator\obj\Debug\projectCalculator.exe
+E:\DOT NET\WINDOWS\projectCalculator\obj\Debug\projectCalculator.pdb
+E:\DOT NET\WINDOWS\projectCalculator\obj\Debug\projectCalculator.Calculator.resources
+E:\DOT NET\WINDOWS\projectCalculator\obj\Debug\projectCalculator.csprojAssemblyReference.cache

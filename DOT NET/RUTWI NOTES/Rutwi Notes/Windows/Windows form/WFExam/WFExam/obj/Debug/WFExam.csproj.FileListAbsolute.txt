@@ -1,0 +1,10 @@
+E:\Rutwi\Windows\Windows form\WFExam\WFExam\bin\Debug\WFExam.exe.config
+E:\Rutwi\Windows\Windows form\WFExam\WFExam\bin\Debug\WFExam.exe
+E:\Rutwi\Windows\Windows form\WFExam\WFExam\bin\Debug\WFExam.pdb
+E:\Rutwi\Windows\Windows form\WFExam\WFExam\obj\Debug\WFExam.csproj.AssemblyReference.cache
+E:\Rutwi\Windows\Windows form\WFExam\WFExam\obj\Debug\WFExam.Properties.Resources.resources
+E:\Rutwi\Windows\Windows form\WFExam\WFExam\obj\Debug\WFExam.csproj.GenerateResource.cache
+E:\Rutwi\Windows\Windows form\WFExam\WFExam\obj\Debug\WFExam.csproj.CoreCompileInputs.cache
+E:\Rutwi\Windows\Windows form\WFExam\WFExam\obj\Debug\WFExam.exe
+E:\Rutwi\Windows\Windows form\WFExam\WFExam\obj\Debug\WFExam.pdb
+E:\Rutwi\Windows\Windows form\WFExam\WFExam\obj\Debug\WFExam.Cars.resources

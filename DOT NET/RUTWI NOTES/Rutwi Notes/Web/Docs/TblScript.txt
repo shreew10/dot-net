@@ -1,0 +1,21 @@
+USE [tempdb_Trupti]
+GO
+
+/****** Object:  Table [dbo].[tbl_student_details]    Script Date: 14-12-2022 09:39:01 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[tbl_student_details](
+	[studRollno] [int] IDENTITY(1,1) NOT NULL,
+	[studName] [varchar](100) NULL,
+	[studGender] [varchar](100) NULL,
+	[studSubject] [varchar](150) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[studRollno] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO

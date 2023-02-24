@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="tempdb_Trupti" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=SHREE\SQLEXPRESS;Initial Catalog=tempdb_Trupti;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="tempdb_TruptiConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tbl_student_details" Member="tbl_student_details">
+    <Type Name="tbl_student_detail">
+      <Column Name="studRollno" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="studName" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="studGender" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="studSubject" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

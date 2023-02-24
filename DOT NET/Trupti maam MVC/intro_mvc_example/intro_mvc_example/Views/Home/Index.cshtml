@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<br />
+<div class="row">
+    <h1>@ViewData["VDHeader"]</h1>
+</div>
+
+<div class="row">
+    <ul>
+        @foreach (var item in (List<string>)ViewData["VDStudent"])
+        {
+            <li>@item</li>
+        }
+    </ul>
+
+
+</div>
+

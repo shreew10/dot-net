@@ -1,0 +1,58 @@
+﻿
+
+@{var marks = 50;}
+
+<html>
+<body>
+    <div>
+        @if (marks > 35)
+        {
+            <p>Pass</p>
+        }
+    </div>
+
+    <div>
+        @if (marks > 70)
+        {
+            <p>Grade is A</p>
+        }
+        else if (marks > 40)
+        {
+            <p>Grade is A</p>
+        }
+        else if (marks > 35)
+        {
+            <p>Grade is A</p>
+        }
+        else
+        {
+            <p>Fail</p>
+        }
+    </div>
+
+    <div>
+        <table class="table table-responsive">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>City</th>
+                <th>Mobile</th>
+            </tr>
+            @for (var i = 0; i < 10; i++)
+            {
+                <tr>
+                    <td>001</td>
+                    <td>Trupti</td>
+                    <td>Pune</td>
+                    <td>8999458956</td>
+                </tr>
+            }
+        </table>
+    </div>
+
+    @Html.TextBox("hello",marks)
+
+   
+</body>
+</html>
+

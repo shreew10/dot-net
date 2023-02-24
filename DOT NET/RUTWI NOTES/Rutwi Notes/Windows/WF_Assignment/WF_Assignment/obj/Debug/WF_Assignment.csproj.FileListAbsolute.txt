@@ -1,0 +1,10 @@
+D:\Rutwi\Windows\WF_Assignment\WF_Assignment\bin\Debug\WF_Assignment.exe.config
+D:\Rutwi\Windows\WF_Assignment\WF_Assignment\bin\Debug\WF_Assignment.exe
+D:\Rutwi\Windows\WF_Assignment\WF_Assignment\bin\Debug\WF_Assignment.pdb
+D:\Rutwi\Windows\WF_Assignment\WF_Assignment\obj\Debug\WF_Assignment.csprojAssemblyReference.cache
+D:\Rutwi\Windows\WF_Assignment\WF_Assignment\obj\Debug\WF_Assignment.Form1.resources
+D:\Rutwi\Windows\WF_Assignment\WF_Assignment\obj\Debug\WF_Assignment.Properties.Resources.resources
+D:\Rutwi\Windows\WF_Assignment\WF_Assignment\obj\Debug\WF_Assignment.csproj.GenerateResource.cache
+D:\Rutwi\Windows\WF_Assignment\WF_Assignment\obj\Debug\WF_Assignment.csproj.CoreCompileInputs.cache
+D:\Rutwi\Windows\WF_Assignment\WF_Assignment\obj\Debug\WF_Assignment.exe
+D:\Rutwi\Windows\WF_Assignment\WF_Assignment\obj\Debug\WF_Assignment.pdb

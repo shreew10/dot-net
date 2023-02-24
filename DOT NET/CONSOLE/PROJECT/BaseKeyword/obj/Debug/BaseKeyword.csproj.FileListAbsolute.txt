@@ -1,0 +1,6 @@
+E:\DOT NET\CONSOLE\PROJECT\BaseKeyword\bin\Debug\BaseKeyword.exe.config
+E:\DOT NET\CONSOLE\PROJECT\BaseKeyword\bin\Debug\BaseKeyword.exe
+E:\DOT NET\CONSOLE\PROJECT\BaseKeyword\bin\Debug\BaseKeyword.pdb
+E:\DOT NET\CONSOLE\PROJECT\BaseKeyword\obj\Debug\BaseKeyword.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\BaseKeyword\obj\Debug\BaseKeyword.exe
+E:\DOT NET\CONSOLE\PROJECT\BaseKeyword\obj\Debug\BaseKeyword.pdb

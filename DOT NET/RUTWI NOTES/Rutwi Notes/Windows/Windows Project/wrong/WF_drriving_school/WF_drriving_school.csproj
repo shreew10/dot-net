@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3F351294-C6C5-4EB5-9B41-68AE3155DEE9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WF_drriving_school</RootNamespace>
+    <AssemblyName>WF_drriving_school</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_daily_training.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_daily_training.Designer.cs">
+      <DependentUpon>frm_daily_training.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_payment_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_payment_details.Designer.cs">
+      <DependentUpon>frm_payment_details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_student_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_student_details.Designer.cs">
+      <DependentUpon>frm_student_details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_staff_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_staff_details.Designer.cs">
+      <DependentUpon>frm_staff_details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_company.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_company.Designer.cs">
+      <DependentUpon>frm_company.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_main.Designer.cs">
+      <DependentUpon>frm_main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_home_page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_home_page.Designer.cs">
+      <DependentUpon>frm_home_page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_daily_training.resx">
+      <DependentUpon>frm_daily_training.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_company.resx">
+      <DependentUpon>frm_company.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_main.resx">
+      <DependentUpon>frm_main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_home_page.resx">
+      <DependentUpon>frm_home_page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_payment_details.resx">
+      <DependentUpon>frm_payment_details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_staff_details.resx">
+      <DependentUpon>frm_staff_details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_student_details.resx">
+      <DependentUpon>frm_student_details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\driving-school-logo-template-steering-whell-thumbs-up-hands-78779469-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ds_logo-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo4-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-removebg-preview.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

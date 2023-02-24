@@ -1,0 +1,6 @@
+E:\DOT NET\CONSOLE\PROJECT\EncapsulationExample\bin\Debug\EncapsulationExample.exe.config
+E:\DOT NET\CONSOLE\PROJECT\EncapsulationExample\bin\Debug\EncapsulationExample.exe
+E:\DOT NET\CONSOLE\PROJECT\EncapsulationExample\bin\Debug\EncapsulationExample.pdb
+E:\DOT NET\CONSOLE\PROJECT\EncapsulationExample\obj\Debug\EncapsulationExample.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\EncapsulationExample\obj\Debug\EncapsulationExample.exe
+E:\DOT NET\CONSOLE\PROJECT\EncapsulationExample\obj\Debug\EncapsulationExample.pdb

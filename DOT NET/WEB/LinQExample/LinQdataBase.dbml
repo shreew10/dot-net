@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DgxCompany" Class="LinQdataBaseDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=SHREE\SQLEXPRESS;Initial Catalog=DgxCompany;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="DgxCompanyConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tbl_Dept" Member="tbl_Depts">
+    <Type Name="tbl_Dept">
+      <Column Name="dept_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="dept_name" Type="System.String" DbType="VarChar(60)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

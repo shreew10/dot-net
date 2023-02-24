@@ -1,0 +1,7 @@
+E:\Rutwi\ConsoleApp\ADO_Project\ADOProject\ADOProject\bin\Debug\ADOProject.exe.config
+E:\Rutwi\ConsoleApp\ADO_Project\ADOProject\ADOProject\bin\Debug\ADOProject.exe
+E:\Rutwi\ConsoleApp\ADO_Project\ADOProject\ADOProject\bin\Debug\ADOProject.pdb
+E:\Rutwi\ConsoleApp\ADO_Project\ADOProject\ADOProject\obj\Debug\ADOProject.csproj.AssemblyReference.cache
+E:\Rutwi\ConsoleApp\ADO_Project\ADOProject\ADOProject\obj\Debug\ADOProject.csproj.CoreCompileInputs.cache
+E:\Rutwi\ConsoleApp\ADO_Project\ADOProject\ADOProject\obj\Debug\ADOProject.exe
+E:\Rutwi\ConsoleApp\ADO_Project\ADOProject\ADOProject\obj\Debug\ADOProject.pdb

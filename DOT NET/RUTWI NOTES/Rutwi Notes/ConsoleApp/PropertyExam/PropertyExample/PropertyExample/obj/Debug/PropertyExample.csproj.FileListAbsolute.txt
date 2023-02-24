@@ -1,0 +1,14 @@
+E:\Rutwi\ConsoleApp\PropertyExam\PropertyExample\PropertyExample\bin\Debug\PropertyExample.exe.config
+E:\Rutwi\ConsoleApp\PropertyExam\PropertyExample\PropertyExample\bin\Debug\PropertyExample.exe
+E:\Rutwi\ConsoleApp\PropertyExam\PropertyExample\PropertyExample\bin\Debug\PropertyExample.pdb
+E:\Rutwi\ConsoleApp\PropertyExam\PropertyExample\PropertyExample\obj\Debug\PropertyExample.csproj.AssemblyReference.cache
+E:\Rutwi\ConsoleApp\PropertyExam\PropertyExample\PropertyExample\obj\Debug\PropertyExample.csproj.CoreCompileInputs.cache
+E:\Rutwi\ConsoleApp\PropertyExam\PropertyExample\PropertyExample\obj\Debug\PropertyExample.exe
+E:\Rutwi\ConsoleApp\PropertyExam\PropertyExample\PropertyExample\obj\Debug\PropertyExample.pdb
+D:\Rutwi\ConsoleApp\PropertyExam\PropertyExample\PropertyExample\bin\Debug\PropertyExample.exe.config
+D:\Rutwi\ConsoleApp\PropertyExam\PropertyExample\PropertyExample\bin\Debug\PropertyExample.exe
+D:\Rutwi\ConsoleApp\PropertyExam\PropertyExample\PropertyExample\bin\Debug\PropertyExample.pdb
+D:\Rutwi\ConsoleApp\PropertyExam\PropertyExample\PropertyExample\obj\Debug\PropertyExample.csprojAssemblyReference.cache
+D:\Rutwi\ConsoleApp\PropertyExam\PropertyExample\PropertyExample\obj\Debug\PropertyExample.csproj.CoreCompileInputs.cache
+D:\Rutwi\ConsoleApp\PropertyExam\PropertyExample\PropertyExample\obj\Debug\PropertyExample.exe
+D:\Rutwi\ConsoleApp\PropertyExam\PropertyExample\PropertyExample\obj\Debug\PropertyExample.pdb

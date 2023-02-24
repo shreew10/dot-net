@@ -1,0 +1,17 @@
+ CREATE TABLE tbl_staff_details
+ ( staff_aadhar_card  varchar(12) PRIMARY KEY NOT NULL,
+   staff_name varchar(25)NOT NULL,
+   staff_address varchar(100),
+   staff_city varchar(15),
+   staff_area varchar(20),
+   staff_contact varchar(13)NOT NULL,
+   staff_pan_card varchar(10)NOT NULL,
+   staff_gender char NOT NULL,
+   staff_email varchar(15)NOT NULL,
+   staff_password varchar(10)NOT NULL ,
+   delete_flag bit NOT NULL)
+
+ 
+
+
+

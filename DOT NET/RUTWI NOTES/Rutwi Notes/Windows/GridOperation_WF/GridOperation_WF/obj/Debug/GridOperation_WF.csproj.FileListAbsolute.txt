@@ -1,0 +1,10 @@
+D:\Rutwi\Windows\GridOperation_WF\GridOperation_WF\bin\Debug\GridOperation_WF.exe.config
+D:\Rutwi\Windows\GridOperation_WF\GridOperation_WF\bin\Debug\GridOperation_WF.exe
+D:\Rutwi\Windows\GridOperation_WF\GridOperation_WF\bin\Debug\GridOperation_WF.pdb
+D:\Rutwi\Windows\GridOperation_WF\GridOperation_WF\obj\Debug\GridOperation_WF.csprojAssemblyReference.cache
+D:\Rutwi\Windows\GridOperation_WF\GridOperation_WF\obj\Debug\GridOperation_WF.Form1.resources
+D:\Rutwi\Windows\GridOperation_WF\GridOperation_WF\obj\Debug\GridOperation_WF.Properties.Resources.resources
+D:\Rutwi\Windows\GridOperation_WF\GridOperation_WF\obj\Debug\GridOperation_WF.csproj.GenerateResource.cache
+D:\Rutwi\Windows\GridOperation_WF\GridOperation_WF\obj\Debug\GridOperation_WF.csproj.CoreCompileInputs.cache
+D:\Rutwi\Windows\GridOperation_WF\GridOperation_WF\obj\Debug\GridOperation_WF.exe
+D:\Rutwi\Windows\GridOperation_WF\GridOperation_WF\obj\Debug\GridOperation_WF.pdb

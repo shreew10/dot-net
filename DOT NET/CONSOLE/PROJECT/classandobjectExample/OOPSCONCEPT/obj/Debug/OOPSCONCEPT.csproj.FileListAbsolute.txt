@@ -1,0 +1,7 @@
+E:\DOT NET\CONSOLE\PROJECT\classandobjectExample\OOPSCONCEPT\bin\Debug\OOPSCONCEPT.exe.config
+E:\DOT NET\CONSOLE\PROJECT\classandobjectExample\OOPSCONCEPT\bin\Debug\OOPSCONCEPT.exe
+E:\DOT NET\CONSOLE\PROJECT\classandobjectExample\OOPSCONCEPT\bin\Debug\OOPSCONCEPT.pdb
+E:\DOT NET\CONSOLE\PROJECT\classandobjectExample\OOPSCONCEPT\obj\Debug\OOPSCONCEPT.csprojAssemblyReference.cache
+E:\DOT NET\CONSOLE\PROJECT\classandobjectExample\OOPSCONCEPT\obj\Debug\OOPSCONCEPT.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\classandobjectExample\OOPSCONCEPT\obj\Debug\OOPSCONCEPT.exe
+E:\DOT NET\CONSOLE\PROJECT\classandobjectExample\OOPSCONCEPT\obj\Debug\OOPSCONCEPT.pdb

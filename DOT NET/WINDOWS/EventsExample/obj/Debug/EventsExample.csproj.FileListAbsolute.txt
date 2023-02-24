@@ -1,0 +1,10 @@
+E:\DOT NET\WINDOWS\EventsExample\bin\Debug\EventsExample.exe.config
+E:\DOT NET\WINDOWS\EventsExample\bin\Debug\EventsExample.exe
+E:\DOT NET\WINDOWS\EventsExample\bin\Debug\EventsExample.pdb
+E:\DOT NET\WINDOWS\EventsExample\obj\Debug\EventsExample.csprojAssemblyReference.cache
+E:\DOT NET\WINDOWS\EventsExample\obj\Debug\EventsExample.Form1.resources
+E:\DOT NET\WINDOWS\EventsExample\obj\Debug\EventsExample.Properties.Resources.resources
+E:\DOT NET\WINDOWS\EventsExample\obj\Debug\EventsExample.csproj.GenerateResource.cache
+E:\DOT NET\WINDOWS\EventsExample\obj\Debug\EventsExample.csproj.CoreCompileInputs.cache
+E:\DOT NET\WINDOWS\EventsExample\obj\Debug\EventsExample.exe
+E:\DOT NET\WINDOWS\EventsExample\obj\Debug\EventsExample.pdb

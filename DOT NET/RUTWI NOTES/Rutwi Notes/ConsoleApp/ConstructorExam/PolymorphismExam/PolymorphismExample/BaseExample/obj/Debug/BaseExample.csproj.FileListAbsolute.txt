@@ -1,0 +1,6 @@
+D:\Rutwi\ConsoleApp\ConstructorExam\PolymorphismExam\PolymorphismExample\BaseExample\bin\Debug\BaseExample.exe.config
+D:\Rutwi\ConsoleApp\ConstructorExam\PolymorphismExam\PolymorphismExample\BaseExample\bin\Debug\BaseExample.exe
+D:\Rutwi\ConsoleApp\ConstructorExam\PolymorphismExam\PolymorphismExample\BaseExample\bin\Debug\BaseExample.pdb
+D:\Rutwi\ConsoleApp\ConstructorExam\PolymorphismExam\PolymorphismExample\BaseExample\obj\Debug\BaseExample.csproj.CoreCompileInputs.cache
+D:\Rutwi\ConsoleApp\ConstructorExam\PolymorphismExam\PolymorphismExample\BaseExample\obj\Debug\BaseExample.exe
+D:\Rutwi\ConsoleApp\ConstructorExam\PolymorphismExam\PolymorphismExample\BaseExample\obj\Debug\BaseExample.pdb

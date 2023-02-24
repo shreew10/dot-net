@@ -1,0 +1,10 @@
+D:\Rutwi\Windows\EventsExampleWF\EventsExampleWF\bin\Debug\EventsExampleWF.exe.config
+D:\Rutwi\Windows\EventsExampleWF\EventsExampleWF\bin\Debug\EventsExampleWF.exe
+D:\Rutwi\Windows\EventsExampleWF\EventsExampleWF\bin\Debug\EventsExampleWF.pdb
+D:\Rutwi\Windows\EventsExampleWF\EventsExampleWF\obj\Debug\EventsExampleWF.csprojAssemblyReference.cache
+D:\Rutwi\Windows\EventsExampleWF\EventsExampleWF\obj\Debug\EventsExampleWF.Form1.resources
+D:\Rutwi\Windows\EventsExampleWF\EventsExampleWF\obj\Debug\EventsExampleWF.Properties.Resources.resources
+D:\Rutwi\Windows\EventsExampleWF\EventsExampleWF\obj\Debug\EventsExampleWF.csproj.GenerateResource.cache
+D:\Rutwi\Windows\EventsExampleWF\EventsExampleWF\obj\Debug\EventsExampleWF.csproj.CoreCompileInputs.cache
+D:\Rutwi\Windows\EventsExampleWF\EventsExampleWF\obj\Debug\EventsExampleWF.exe
+D:\Rutwi\Windows\EventsExampleWF\EventsExampleWF\obj\Debug\EventsExampleWF.pdb

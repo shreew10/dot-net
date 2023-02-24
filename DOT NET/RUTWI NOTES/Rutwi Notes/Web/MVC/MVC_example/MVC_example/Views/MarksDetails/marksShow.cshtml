@@ -1,0 +1,53 @@
+﻿
+<h2>Marks Details</h2>
+
+@{ var marks = 50;}
+
+<html>
+<body>
+    <div>
+        @if (marks > 35)
+        {
+            <p>Pass </p>
+        }
+    </div>
+    <div>
+        @if (marks > 70)
+        {
+            <p>First Class With Distinction</p>
+        }
+        else if (marks > 60)
+        {
+            <p>First Class</p>
+        }
+        else if (marks > 40)
+        {
+            <p>Second Class</p>
+        }
+        else
+        {
+            <p>Fail</p>
+        }
+    </div>
+    <div>
+        <table class=" table table-responsive">
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>City</th>
+                <th>Mobile</th>
+            </tr>
+            @for(var i=0;i<10;i++)
+            {
+                <tr>
+                    <td>1</td>
+                    <td>Rutwi</td>
+                    <td>Sangli</td>
+                    <td>0123456789</td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</body>
+</html>

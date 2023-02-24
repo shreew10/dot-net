@@ -1,0 +1,14 @@
+D:\Rutwi\Windows\MDI_Example\MDI_Example\bin\Debug\MDI_Example.exe.config
+D:\Rutwi\Windows\MDI_Example\MDI_Example\bin\Debug\MDI_Example.exe
+D:\Rutwi\Windows\MDI_Example\MDI_Example\bin\Debug\MDI_Example.pdb
+D:\Rutwi\Windows\MDI_Example\MDI_Example\obj\Debug\MDI_Example.csprojAssemblyReference.cache
+D:\Rutwi\Windows\MDI_Example\MDI_Example\obj\Debug\MDI_Example.frm_login.resources
+D:\Rutwi\Windows\MDI_Example\MDI_Example\obj\Debug\MDI_Example.frm_main.resources
+D:\Rutwi\Windows\MDI_Example\MDI_Example\obj\Debug\MDI_Example.frm_registration.resources
+D:\Rutwi\Windows\MDI_Example\MDI_Example\obj\Debug\MDI_Example.Properties.Resources.resources
+D:\Rutwi\Windows\MDI_Example\MDI_Example\obj\Debug\MDI_Example.csproj.GenerateResource.cache
+D:\Rutwi\Windows\MDI_Example\MDI_Example\obj\Debug\MDI_Example.csproj.CoreCompileInputs.cache
+D:\Rutwi\Windows\MDI_Example\MDI_Example\obj\Debug\MDI_Example.exe
+D:\Rutwi\Windows\MDI_Example\MDI_Example\obj\Debug\MDI_Example.pdb
+D:\Rutwi\Windows\MDI_Example\MDI_Example\obj\Debug\MDI_Example.frm_home.resources
+D:\Rutwi\Windows\MDI_Example\MDI_Example\obj\Debug\MDI_Example.frm_about.resources

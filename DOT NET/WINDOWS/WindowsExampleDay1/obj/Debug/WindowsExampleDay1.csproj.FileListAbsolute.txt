@@ -1,0 +1,11 @@
+E:\DOT NET\WINDOWS\WindowsExampleDay1\bin\Debug\WindowsExampleDay1.exe.config
+E:\DOT NET\WINDOWS\WindowsExampleDay1\bin\Debug\WindowsExampleDay1.exe
+E:\DOT NET\WINDOWS\WindowsExampleDay1\bin\Debug\WindowsExampleDay1.pdb
+E:\DOT NET\WINDOWS\WindowsExampleDay1\obj\Debug\WindowsExampleDay1.csprojAssemblyReference.cache
+E:\DOT NET\WINDOWS\WindowsExampleDay1\obj\Debug\WindowsExampleDay1.Properties.Resources.resources
+E:\DOT NET\WINDOWS\WindowsExampleDay1\obj\Debug\WindowsExampleDay1.csproj.GenerateResource.cache
+E:\DOT NET\WINDOWS\WindowsExampleDay1\obj\Debug\WindowsExampleDay1.csproj.CoreCompileInputs.cache
+E:\DOT NET\WINDOWS\WindowsExampleDay1\obj\Debug\WindowsExampleDay1.exe
+E:\DOT NET\WINDOWS\WindowsExampleDay1\obj\Debug\WindowsExampleDay1.pdb
+E:\DOT NET\WINDOWS\WindowsExampleDay1\obj\Debug\WindowsExampleDay1.Form1.resources
+E:\DOT NET\WINDOWS\WindowsExampleDay1\obj\Debug\WindowsExampleDay1.LoginForm.resources

@@ -1,0 +1,6 @@
+E:\DOT NET\CONSOLE\PROJECT\AbstractClassExample\bin\Debug\AbstractClassExample.exe.config
+E:\DOT NET\CONSOLE\PROJECT\AbstractClassExample\bin\Debug\AbstractClassExample.exe
+E:\DOT NET\CONSOLE\PROJECT\AbstractClassExample\bin\Debug\AbstractClassExample.pdb
+E:\DOT NET\CONSOLE\PROJECT\AbstractClassExample\obj\Debug\AbstractClassExample.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\AbstractClassExample\obj\Debug\AbstractClassExample.exe
+E:\DOT NET\CONSOLE\PROJECT\AbstractClassExample\obj\Debug\AbstractClassExample.pdb

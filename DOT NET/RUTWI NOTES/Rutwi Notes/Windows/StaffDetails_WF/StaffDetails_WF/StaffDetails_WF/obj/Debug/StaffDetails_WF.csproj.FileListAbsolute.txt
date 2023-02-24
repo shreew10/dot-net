@@ -1,0 +1,10 @@
+D:\Rutwi\Windows\StaffDetails_WF\StaffDetails_WF\StaffDetails_WF\bin\Debug\StaffDetails_WF.exe.config
+D:\Rutwi\Windows\StaffDetails_WF\StaffDetails_WF\StaffDetails_WF\bin\Debug\StaffDetails_WF.exe
+D:\Rutwi\Windows\StaffDetails_WF\StaffDetails_WF\StaffDetails_WF\bin\Debug\StaffDetails_WF.pdb
+D:\Rutwi\Windows\StaffDetails_WF\StaffDetails_WF\StaffDetails_WF\obj\Debug\StaffDetails_WF.csprojAssemblyReference.cache
+D:\Rutwi\Windows\StaffDetails_WF\StaffDetails_WF\StaffDetails_WF\obj\Debug\StaffDetails_WF.Form1.resources
+D:\Rutwi\Windows\StaffDetails_WF\StaffDetails_WF\StaffDetails_WF\obj\Debug\StaffDetails_WF.Properties.Resources.resources
+D:\Rutwi\Windows\StaffDetails_WF\StaffDetails_WF\StaffDetails_WF\obj\Debug\StaffDetails_WF.csproj.GenerateResource.cache
+D:\Rutwi\Windows\StaffDetails_WF\StaffDetails_WF\StaffDetails_WF\obj\Debug\StaffDetails_WF.csproj.CoreCompileInputs.cache
+D:\Rutwi\Windows\StaffDetails_WF\StaffDetails_WF\StaffDetails_WF\obj\Debug\StaffDetails_WF.exe
+D:\Rutwi\Windows\StaffDetails_WF\StaffDetails_WF\StaffDetails_WF\obj\Debug\StaffDetails_WF.pdb

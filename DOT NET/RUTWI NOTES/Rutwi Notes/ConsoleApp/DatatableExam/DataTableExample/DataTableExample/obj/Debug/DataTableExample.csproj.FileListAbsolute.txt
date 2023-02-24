@@ -1,0 +1,7 @@
+E:\Rutwi\ConsoleApp\DatatableExam\DataTableExample\DataTableExample\bin\Debug\DataTableExample.exe.config
+E:\Rutwi\ConsoleApp\DatatableExam\DataTableExample\DataTableExample\bin\Debug\DataTableExample.exe
+E:\Rutwi\ConsoleApp\DatatableExam\DataTableExample\DataTableExample\bin\Debug\DataTableExample.pdb
+E:\Rutwi\ConsoleApp\DatatableExam\DataTableExample\DataTableExample\obj\Debug\DataTableExample.csproj.AssemblyReference.cache
+E:\Rutwi\ConsoleApp\DatatableExam\DataTableExample\DataTableExample\obj\Debug\DataTableExample.csproj.CoreCompileInputs.cache
+E:\Rutwi\ConsoleApp\DatatableExam\DataTableExample\DataTableExample\obj\Debug\DataTableExample.exe
+E:\Rutwi\ConsoleApp\DatatableExam\DataTableExample\DataTableExample\obj\Debug\DataTableExample.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="db_test" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=CORE-OBJ-LAPTOP\SQLEXPRESS;Initial Catalog=db_test;User ID=sa" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="db_testConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tbl_student" Member="tbl_students">
+    <Type Name="tbl_student">
+      <Column Name="stud_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="stud_name" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Column Name="stud_city" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

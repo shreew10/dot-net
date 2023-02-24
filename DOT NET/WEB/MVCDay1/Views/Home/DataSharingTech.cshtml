@@ -1,0 +1,21 @@
+﻿
+<h1>DataSharingTechniques</h1>
+<h2>VIEW DATA</h2>
+<div>
+    <ul>
+        @foreach (var item in (List<string>)ViewData["List"])
+        {
+            <li>@item</li>
+        }
+    </ul>
+</div>
+<h2>VIEW BAG</h2>
+<div>
+    <ul>
+        @foreach (var bag in ViewBag.ListInfo)
+        {
+            <li>@bag</li>
+        }
+    </ul>
+</div>
+

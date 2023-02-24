@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\StucturePractiseDay3\StructureAndEnum\bin\Debug\StructureAndEnum.exe.config
+C:\Users\hp\source\repos\StucturePractiseDay3\StructureAndEnum\bin\Debug\StructureAndEnum.exe
+C:\Users\hp\source\repos\StucturePractiseDay3\StructureAndEnum\bin\Debug\StructureAndEnum.pdb
+C:\Users\hp\source\repos\StucturePractiseDay3\StructureAndEnum\obj\Debug\StructureAndEnum.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\StucturePractiseDay3\StructureAndEnum\obj\Debug\StructureAndEnum.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\StucturePractiseDay3\StructureAndEnum\obj\Debug\StructureAndEnum.exe
+C:\Users\hp\source\repos\StucturePractiseDay3\StructureAndEnum\obj\Debug\StructureAndEnum.pdb

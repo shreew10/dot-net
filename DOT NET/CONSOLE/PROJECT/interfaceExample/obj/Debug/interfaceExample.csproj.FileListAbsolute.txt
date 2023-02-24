@@ -1,0 +1,6 @@
+E:\DOT NET\CONSOLE\PROJECT\interfaceExample\bin\Debug\interfaceExample.exe.config
+E:\DOT NET\CONSOLE\PROJECT\interfaceExample\bin\Debug\interfaceExample.exe
+E:\DOT NET\CONSOLE\PROJECT\interfaceExample\bin\Debug\interfaceExample.pdb
+E:\DOT NET\CONSOLE\PROJECT\interfaceExample\obj\Debug\interfaceExample.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\interfaceExample\obj\Debug\interfaceExample.exe
+E:\DOT NET\CONSOLE\PROJECT\interfaceExample\obj\Debug\interfaceExample.pdb

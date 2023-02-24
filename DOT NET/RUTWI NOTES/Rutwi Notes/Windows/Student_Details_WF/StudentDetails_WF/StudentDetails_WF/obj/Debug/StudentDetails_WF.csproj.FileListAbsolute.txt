@@ -1,0 +1,10 @@
+D:\Rutwi\Windows\Student_Details_WF\StudentDetails_WF\StudentDetails_WF\bin\Debug\StudentDetails_WF.exe.config
+D:\Rutwi\Windows\Student_Details_WF\StudentDetails_WF\StudentDetails_WF\bin\Debug\StudentDetails_WF.exe
+D:\Rutwi\Windows\Student_Details_WF\StudentDetails_WF\StudentDetails_WF\bin\Debug\StudentDetails_WF.pdb
+D:\Rutwi\Windows\Student_Details_WF\StudentDetails_WF\StudentDetails_WF\obj\Debug\StudentDetails_WF.csprojAssemblyReference.cache
+D:\Rutwi\Windows\Student_Details_WF\StudentDetails_WF\StudentDetails_WF\obj\Debug\StudentDetails_WF.Form1.resources
+D:\Rutwi\Windows\Student_Details_WF\StudentDetails_WF\StudentDetails_WF\obj\Debug\StudentDetails_WF.Properties.Resources.resources
+D:\Rutwi\Windows\Student_Details_WF\StudentDetails_WF\StudentDetails_WF\obj\Debug\StudentDetails_WF.csproj.GenerateResource.cache
+D:\Rutwi\Windows\Student_Details_WF\StudentDetails_WF\StudentDetails_WF\obj\Debug\StudentDetails_WF.csproj.CoreCompileInputs.cache
+D:\Rutwi\Windows\Student_Details_WF\StudentDetails_WF\StudentDetails_WF\obj\Debug\StudentDetails_WF.exe
+D:\Rutwi\Windows\Student_Details_WF\StudentDetails_WF\StudentDetails_WF\obj\Debug\StudentDetails_WF.pdb

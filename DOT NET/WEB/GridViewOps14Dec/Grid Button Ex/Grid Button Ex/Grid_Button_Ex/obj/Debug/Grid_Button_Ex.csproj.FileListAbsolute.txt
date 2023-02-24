@@ -1,0 +1,118 @@
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\Grid_Button_Ex.dll.config
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\Grid_Button_Ex.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\Grid_Button_Ex.pdb
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\csc.exe
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\csc.exe.config
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\csc.rsp
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\csi.exe
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\csi.exe.config
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\csi.rsp
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.AppContext.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Collections.Immutable.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Console.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Globalization.Calendars.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.IO.Compression.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.IO.FileSystem.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Net.Http.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Net.Sockets.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Reflection.Metadata.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.ValueTuple.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Xml.XPath.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\vbc.exe
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\vbc.exe.config
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\vbc.rsp
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\VBCSCompiler.exe
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\roslyn\VBCSCompiler.exe.config
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\obj\Debug\Grid_Button_Ex.csproj.AssemblyReference.cache
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\obj\Debug\Grid_Button_Ex.csproj.CoreCompileInputs.cache
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\obj\Debug\Grid_Button_Ex.csproj.CopyComplete
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\obj\Debug\Grid_Button_Ex.dll
+D:\DGX LS\DGX DOT-NET\Web\Grid Button Ex\Grid_Button_Ex\obj\Debug\Grid_Button_Ex.pdb
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\Grid_Button_Ex.dll.config
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\Grid_Button_Ex.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\Grid_Button_Ex.pdb
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\csc.exe
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\csc.exe.config
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\csc.rsp
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\csi.exe
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\csi.exe.config
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\csi.rsp
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.AppContext.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Collections.Immutable.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Console.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Globalization.Calendars.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.IO.Compression.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.IO.FileSystem.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Net.Http.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Net.Sockets.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Reflection.Metadata.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.ValueTuple.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Xml.XPath.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\vbc.exe
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\vbc.exe.config
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\vbc.rsp
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\VBCSCompiler.exe
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\roslyn\VBCSCompiler.exe.config
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\obj\Debug\Grid_Button_Ex.csprojAssemblyReference.cache
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\obj\Debug\Grid_Button_Ex.csproj.CoreCompileInputs.cache
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\obj\Debug\Grid_Button_Ex.csproj.CopyComplete
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\obj\Debug\Grid_Button_Ex.dll
+E:\DOT NET\WEB\GridViewOps14Dec\Grid Button Ex\Grid Button Ex\Grid_Button_Ex\obj\Debug\Grid_Button_Ex.pdb

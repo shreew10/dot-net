@@ -1,0 +1,10 @@
+E:\DOT NET\WINDOWS\EmployeeFormDay2\bin\Debug\EmployeeFormDay2.exe.config
+E:\DOT NET\WINDOWS\EmployeeFormDay2\bin\Debug\EmployeeFormDay2.exe
+E:\DOT NET\WINDOWS\EmployeeFormDay2\bin\Debug\EmployeeFormDay2.pdb
+E:\DOT NET\WINDOWS\EmployeeFormDay2\obj\Debug\EmployeeFormDay2.csprojAssemblyReference.cache
+E:\DOT NET\WINDOWS\EmployeeFormDay2\obj\Debug\EmployeeFormDay2.Form1.resources
+E:\DOT NET\WINDOWS\EmployeeFormDay2\obj\Debug\EmployeeFormDay2.Properties.Resources.resources
+E:\DOT NET\WINDOWS\EmployeeFormDay2\obj\Debug\EmployeeFormDay2.csproj.GenerateResource.cache
+E:\DOT NET\WINDOWS\EmployeeFormDay2\obj\Debug\EmployeeFormDay2.csproj.CoreCompileInputs.cache
+E:\DOT NET\WINDOWS\EmployeeFormDay2\obj\Debug\EmployeeFormDay2.exe
+E:\DOT NET\WINDOWS\EmployeeFormDay2\obj\Debug\EmployeeFormDay2.pdb

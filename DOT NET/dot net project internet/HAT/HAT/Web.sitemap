@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="~/secure/default.aspx" title="Home"  description="HAT Home page">
+      <siteMapNode url="~/secure/receipt.aspx" title="Receipt" description="Add Receipt details">
+          <siteMapNode url="~/secure/receiptList.aspx" title="Receipt List"  description="List Receipt details" />
+      </siteMapNode>
+      <siteMapNode url="~/secure/deposit.aspx" title="Deposit"  description="Add Deposit details">
+        <siteMapNode url="~/secure/depositList.aspx" title="Deposit List"  description="List Deposit details" />
+      </siteMapNode>
+      <siteMapNode url="~/secure/payment.aspx" title="Payment"  description="Add Payment details">
+        <siteMapNode url="~/secure/paymentList.aspx" title="Payment List"  description="List Payment details" />
+      </siteMapNode>
+      <siteMapNode url="~/secure/bank.aspx" title="Bank"  description="Add Bank details">
+        <siteMapNode url="~/secure/bankList.aspx" title="Bank List"  description="List Bank details" />
+      </siteMapNode>
+      <siteMapNode url="~/secure/currentstatus.aspx" title="Current Status" description="Status of the selected month"></siteMapNode>
+      <siteMapNode url="~/secure/report.aspx" title="Reports" description="Reports of your Account">
+        <siteMapNode url="~/secure/reportMonth.aspx" title="Monthly Report" description="Month wise Reports"></siteMapNode>
+      </siteMapNode>
+    </siteMapNode>
+</siteMap>

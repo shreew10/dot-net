@@ -1,0 +1,13 @@
+E:\DOT NET\WINDOWS\LoginPageDgx\bin\Debug\LoginPageDgx.exe.config
+E:\DOT NET\WINDOWS\LoginPageDgx\bin\Debug\LoginPageDgx.exe
+E:\DOT NET\WINDOWS\LoginPageDgx\bin\Debug\LoginPageDgx.pdb
+E:\DOT NET\WINDOWS\LoginPageDgx\obj\Debug\LoginPageDgx.csprojAssemblyReference.cache
+E:\DOT NET\WINDOWS\LoginPageDgx\obj\Debug\LoginPageDgx.Form1.resources
+E:\DOT NET\WINDOWS\LoginPageDgx\obj\Debug\LoginPageDgx.Form2.resources
+E:\DOT NET\WINDOWS\LoginPageDgx\obj\Debug\LoginPageDgx.Frm_Main.resources
+E:\DOT NET\WINDOWS\LoginPageDgx\obj\Debug\LoginPageDgx.Properties.Resources.resources
+E:\DOT NET\WINDOWS\LoginPageDgx\obj\Debug\LoginPageDgx.csproj.GenerateResource.cache
+E:\DOT NET\WINDOWS\LoginPageDgx\obj\Debug\LoginPageDgx.csproj.CoreCompileInputs.cache
+E:\DOT NET\WINDOWS\LoginPageDgx\obj\Debug\LoginPageDgx.exe
+E:\DOT NET\WINDOWS\LoginPageDgx\obj\Debug\LoginPageDgx.pdb
+E:\DOT NET\WINDOWS\LoginPageDgx\obj\Debug\LoginPageDgx.Form3.resources

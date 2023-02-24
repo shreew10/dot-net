@@ -1,0 +1,20 @@
+C:\Users\Ravindra Bhave\source\repos\StudentWF\StudentWF\bin\Debug\StudentWF.exe.config
+C:\Users\Ravindra Bhave\source\repos\StudentWF\StudentWF\bin\Debug\StudentWF.exe
+C:\Users\Ravindra Bhave\source\repos\StudentWF\StudentWF\bin\Debug\StudentWF.pdb
+C:\Users\Ravindra Bhave\source\repos\StudentWF\StudentWF\obj\Debug\StudentWF.csproj.AssemblyReference.cache
+C:\Users\Ravindra Bhave\source\repos\StudentWF\StudentWF\obj\Debug\StudentWF.Form1.resources
+C:\Users\Ravindra Bhave\source\repos\StudentWF\StudentWF\obj\Debug\StudentWF.Properties.Resources.resources
+C:\Users\Ravindra Bhave\source\repos\StudentWF\StudentWF\obj\Debug\StudentWF.csproj.GenerateResource.cache
+C:\Users\Ravindra Bhave\source\repos\StudentWF\StudentWF\obj\Debug\StudentWF.csproj.CoreCompileInputs.cache
+C:\Users\Ravindra Bhave\source\repos\StudentWF\StudentWF\obj\Debug\StudentWF.exe
+C:\Users\Ravindra Bhave\source\repos\StudentWF\StudentWF\obj\Debug\StudentWF.pdb
+D:\Rutwi\Windows\StudentWF\StudentWF\bin\Debug\StudentWF.exe.config
+D:\Rutwi\Windows\StudentWF\StudentWF\bin\Debug\StudentWF.exe
+D:\Rutwi\Windows\StudentWF\StudentWF\bin\Debug\StudentWF.pdb
+D:\Rutwi\Windows\StudentWF\StudentWF\obj\Debug\StudentWF.csprojAssemblyReference.cache
+D:\Rutwi\Windows\StudentWF\StudentWF\obj\Debug\StudentWF.Form1.resources
+D:\Rutwi\Windows\StudentWF\StudentWF\obj\Debug\StudentWF.Properties.Resources.resources
+D:\Rutwi\Windows\StudentWF\StudentWF\obj\Debug\StudentWF.csproj.GenerateResource.cache
+D:\Rutwi\Windows\StudentWF\StudentWF\obj\Debug\StudentWF.csproj.CoreCompileInputs.cache
+D:\Rutwi\Windows\StudentWF\StudentWF\obj\Debug\StudentWF.exe
+D:\Rutwi\Windows\StudentWF\StudentWF\obj\Debug\StudentWF.pdb

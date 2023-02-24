@@ -1,0 +1,7 @@
+E:\DOT NET\CONSOLE\PROJECT\DelegateNewExample\bin\Debug\DelegateNewExample.exe.config
+E:\DOT NET\CONSOLE\PROJECT\DelegateNewExample\bin\Debug\DelegateNewExample.exe
+E:\DOT NET\CONSOLE\PROJECT\DelegateNewExample\bin\Debug\DelegateNewExample.pdb
+E:\DOT NET\CONSOLE\PROJECT\DelegateNewExample\obj\Debug\DelegateNewExample.csprojAssemblyReference.cache
+E:\DOT NET\CONSOLE\PROJECT\DelegateNewExample\obj\Debug\DelegateNewExample.csproj.CoreCompileInputs.cache
+E:\DOT NET\CONSOLE\PROJECT\DelegateNewExample\obj\Debug\DelegateNewExample.exe
+E:\DOT NET\CONSOLE\PROJECT\DelegateNewExample\obj\Debug\DelegateNewExample.pdb
